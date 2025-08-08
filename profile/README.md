@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+We are a Canadian-based startup whose goal is to clear space debris from Earths lower and higher atmosphere!
+
+Fun Fact, our founder (Edward), likes Burgers with pickles because
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxyZHQwNTZhYzBiZWJqbm1nM3RwaDNuanpxZ2N6N2ozeGtvMnQwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5y2zBKjMF1TEI/giphy.gif)
 <!--
 
 **Here are some ideas to get you started:**
